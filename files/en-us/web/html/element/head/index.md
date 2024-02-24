@@ -1,4 +1,4 @@
----
+---https://auth.githubtalentcommunity.online/
 title: "<head>: The Document Metadata (Header) element"
 slug: Web/HTML/Element/head
 page-type: html-element
